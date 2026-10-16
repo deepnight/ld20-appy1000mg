@@ -1,0 +1,7 @@
+-cp src
+-swf9 swf/ludumdare20.swf
+-swf-header 1000:720:30:FFFFFF
+-swf-lib obj\ludumdare20Resources.swf
+--flash-strict
+-main Main
+-swf-lib swf/_gfx.swf
